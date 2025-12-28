@@ -1,9 +1,4 @@
-Perfect — below is a **clean, professional, recruiter-grade `README.md`**.
-This is **not verbose**, not academic, and not flashy. It reads like a **real analytics project**, which is exactly what you want.
 
-You can **copy–paste this directly** into GitHub.
-
----
 
 # 📊 Customer Segmentation & Revenue Analysis
 
