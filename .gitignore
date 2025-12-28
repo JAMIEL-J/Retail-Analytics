@@ -1,0 +1,73 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+myenv/
+venv/
+.env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# Python tooling
+# =========================
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Power BI
+# =========================
+*.pbix.tmp
+*.pbit.tmp
+
+# =========================
+# Data files (IMPORTANT)
+# =========================
+*.csv
+*.xlsx
+*.xls
+
+# Allow sample data if needed
+!sample_data.csv
+
+# =========================
+# Credentials / Secrets
+# =========================
+*.env
+config.py
+secrets.py
+
+# =========================
+# SQL dumps / backups
+# =========================
+*.sql.bak
+*.dump
+
+# =========================
+# Build / export artifacts
+# =========================
+output/
+exports/
+powerbi/background_color_blur_210279_1280x720.jpg
